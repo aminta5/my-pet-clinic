@@ -43,5 +43,5 @@
         <developerConnection>scm:git:git@github.com:aminta5/my-pet-clinic.git</developerConnection>
         <url>git@github.com:aminta5/my-pet-clinic.git</url>
         <connection>scm:git:git@github.com:aminta5/my-pet-clinic.git</connection>
-    </scm>
+  </scm>
 </project>
