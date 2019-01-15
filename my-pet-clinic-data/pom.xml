@@ -36,7 +36,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
@@ -59,6 +58,4 @@
             </plugin>
         </plugins>
     </build>
-
-
 </project>
