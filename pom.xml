@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.shamballa</groupId>
     <artifactId>my-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>my-pet-clinic</name>
     <description>Second attepmt to initilaize pet clinic project</description>
 
@@ -43,6 +43,6 @@
         <developerConnection>scm:git:git@github.com:aminta5/my-pet-clinic.git</developerConnection>
         <url>git@github.com:aminta5/my-pet-clinic.git</url>
         <connection>scm:git:git@github.com:aminta5/my-pet-clinic.git</connection>
-    <tag>my-pet-clinic-0.0.1</tag>
+    <tag>my-pet-clinic-0.0.2</tag>
   </scm>
 </project>
