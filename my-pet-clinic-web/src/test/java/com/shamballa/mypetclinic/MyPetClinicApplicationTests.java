@@ -1,4 +1,4 @@
-package mypetclinic;
+package com.shamballa.mypetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
